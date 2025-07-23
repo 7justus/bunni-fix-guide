@@ -2,3 +2,6 @@
 - fix 2: MAKE SURE YOU EXTRACT THE .ZIP BEFORE RUNNING BUNNI.EXE
 - fix 3: use warp https://one.one.one.one
 - fix 4: make sure you are copying your key correctly
+- fix 5: Generate a new key using a different broweser
+- fix 6: Use Proton vpn Or any vpn of your choice
+- fix 7: Change your timezone to Eastern Daylight Time (hardly needed step 5 should fix it)
